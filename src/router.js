@@ -5,6 +5,7 @@ import AppFooter from './layout/AppFooter'
 
 import Index from './views/index.vue'
 import VeilleTechnologique from './views/VeilleTechnologique'
+import VeilleJuridique from './views/VeilleJuridique'
 
 Vue.use(Router)
 
@@ -44,6 +45,15 @@ export default new Router({
       components: {
         header: AppHeader,
         default: VeilleTechnologique,
+        footer: AppFooter
+      }
+    },
+    {
+      path: '/veille-juridique',
+      name: 'veille-juridique',
+      components: {
+        header: AppHeader,
+        default: VeilleJuridique,
         footer: AppFooter
       }
     }

@@ -27,7 +27,7 @@
                 <div class="card-profile-image">
                   <a href="#">
                     <img
-                      v-lazy="'img/brand/docker.jpg'"
+                      v-lazy="'img/brand/rgpd.jpg'"
                       class="rounded-circle"
                     >
                   </a>
@@ -36,7 +36,7 @@
               <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
                 <div class="card-profile-actions py-4 mt-lg-0">
                   <a
-                    href="http://docker.com"
+                    href="https://cnil.fr"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -49,7 +49,7 @@
                     </base-button>
                   </a>
                   <a
-                    href="https://www.google.com/search?q=Docker"
+                    href="https://www.google.com/search?q=données%20personnelles"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -82,15 +82,15 @@
             </div>
             <div class="text-center mt-5">
               <h3>
-                Veille technologique
+                Veille juridique
               </h3>
               <div class="h6 font-weight-300">
                 <i class="ni location_pin mr-2" />par Arthur Dufour
               </div>
               <div class="h4 mt-4">
-                <i class="ni business_briefcase-24 mr-2" />Docker
+                <i class="ni business_briefcase-24 mr-2" />RGDP
               </div>
-              <div><i class="ni education_hat mr-2" />Enterprise Container Platform for High Velocity Innovation</div>
+              <div><i class="ni education_hat mr-2" />La protection des données personnelles en Europe.</div>
             </div>
             <div class="mt-5 py-5 border-top text-center">
               <div class="row justify-content-center">
@@ -116,12 +116,16 @@
               >
                 <div class="col-lg-9">
                   <iframe
-                    src="https://www.pearltrees.com/arthurdufour?embed=2&d=20190423117"
-                    width="560"
-                    height="413"
+                    src="//www.pearltrees.com/arthurdufour/rgpd-donnees-personnelles/id24809547?embed=2&d=201904241033"
+                    width="400"
+                    height="310"
                     style="border:0px;"
                     allowtransparency="true"
                   /><span style="display:block; padding-top:2px; color:#818181; font-size:13px;"><a
+                    href="http://www.pearltrees.com/arthurdufour/rgpd-donnees-personnelles/id24809547"
+                    style=" color:#818181; font-size:13px;"
+                    target="_blank"
+                  /><a
                     href="http://www.pearltrees.com/arthurdufour"
                     style=" color:#818181; font-size:13px;"
                     target="_blank"
