@@ -94,10 +94,10 @@
                 </div>
 
                 <p class="lead">
-                  Je suis actuellement étudiant en deuxième année à l'EPSI, où je compte achever un Bac+5.
+                  Je suis actuellement étudiant en deuxième année à l'EPSI, où je compte achever un Bac+5, ainsi qu'un BTS SIO parcours SLAM en parallèle.
                   Passionné par le développement, je n'hésite pas à me plonger dans tout ce qui me passe sous la
                   main.<br>
-                  Par conséquent, j'ai mis en place ce site web afin de les exposer et les partager avec vous.<br>
+                  Ce site web présente le travail que j'ai effectué dans le cadre de la préparation au BTS SIO.<br>
                 </p>
               </div>
             </div>
@@ -157,9 +157,8 @@
                   </div>
 
                   <h3>A propos du BTS SIO</h3>
-                  <p>
-                    The kit comes with three pre-built pages to help you get started faster. You can change
-                    the text and images and you're good to go.
+                  <p style="text-align: justify">
+                    Le BTS SIO (Services Informatiques aux Organisations), créé en 2011, est le nouveau BTS IG (Informatique de Gestion). Il forme à la mise en place de solutions informatiques au sein des entreprises et propose 2 options : SISR « Solutions d’Infrastructure, Systèmes et Réseaux » et SLAM « Solutions Logicielles et Applications Métiers ».
                   </p>
                   <ul class="list-unstyled mt-5">
                     <li class="py-2">
@@ -168,7 +167,7 @@
                           <i class="ni ni-settings" />
                         </span>
                         <h6 class="mb-0">
-                          Ceci est un test
+                          Niveau Bac+2
                         </h6>
                       </div>
                     </li>
@@ -178,7 +177,7 @@
                           <i class="ni ni-settings" />
                         </span>
                         <h6 class="mb-0">
-                          Amazing page examples
+                          Dimplôme reconnu par l'État
                         </h6>
                       </div>
                     </li>
@@ -188,7 +187,7 @@
                           <i class="ni ni-settings" />
                         </span>
                         <h6 class="mb-0">
-                          Super friendly support team
+                          Préparé en candidat libre
                         </h6>
                       </div>
                     </li>
