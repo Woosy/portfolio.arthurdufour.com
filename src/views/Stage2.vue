@@ -18,26 +18,28 @@
             <div class="row">
               <div class="col-lg-6">
                 <h1 class="display-3  text-white">
-                  Premier stage - TeePy
-                  <span>Développeur web stagiaire</span>
+                  Second stage - Road-b-Score
+                  <span>Développeur full-stack</span>
                 </h1>
                 <p class="lead text-white">
-                  TeePy est un réseau professionnel et une plateforme de services pour les artisans, les commerçants, les auto-entrepreneurs, les professions libérales et les dirigeants de très petites entreprises.
+                  Road-b-Score est une startup lyonnaise sépcialisée dans
+                  l'hyperconnaissance client, le scoring prédictif et les
+                  sciences cognitives.
                 </p>
                 <div class="btn-wrapper">
                   <base-button
                     tag="a"
-                    href="https://www.teepy-entrepreneur.com/"
+                    href="http://www.road-b-score.fr/"
                     target="_blank"
                     class="mb-3 mb-sm-0"
-                    type="danger"
+                    type="primary"
                     icon="fa fa-code"
                   >
-                    Site de TeePy
+                    Site de Road-b-Score
                   </base-button>
                   <base-button
                     tag="a"
-                    href="/pdf/rapport-stage-teepy-arthur-dufour.pdf"
+                    href="/pdf/rapport-stage-road-b-score-arthur-dufour.pdf"
                     target="_blank"
                     class="mb-3 mb-sm-0"
                     type="white"
@@ -69,33 +71,34 @@
                     Développement back-end
                   </h6>
                   <p class="description mt-3 text-justify">
-                    Certaines tâches ont nécéssité des développements
-                    côté serveur, telles que le traitement de formulaires
-                    pour insertion en base de données...
+                    Développement d'APIs web internes en Node.js
+                    en suivant l'architecture RESTful, avec
+                    rédaction de tests d'intégrations, envoie
+                    de mails etc...
                   </p>
                   <div>
                     <badge
                       type="primary"
                       rounded
                     >
-                      PHP
+                      Node.js
                     </badge>
                     <badge
                       type="primary"
                       rounded
                     >
-                      Ajax
+                      APIs REST
                     </badge>
                     <badge
                       type="primary"
                       rounded
                     >
-                      SQL
+                      Tests
                     </badge>
                   </div>
                   <base-button
                     tag="a"
-                    href="https://www.php.net/"
+                    href="https://nodejs.org/"
                     target="_blank"
                     type="primary"
                     class="mt-4"
@@ -115,22 +118,22 @@
                     Développement front-end
                   </h6>
                   <p class="description mt-3 text-justify">
-                    J'ai également eu à intégrer plusieurs maquettes,
-                    nécéssitant la création d'animations, tout en visant
-                    une expérience utilisateur optimale.
+                    Développement de plusieurs fronts en utilisant
+                    un framework Javascript moderne, à savoir Vue.js,
+                    ainsi que la librairie de composants Bootstrap.
                   </p>
                   <div>
                     <badge
                       type="success"
                       rounded
                     >
-                      HTML/CSS
+                      Vue.js
                     </badge>
                     <badge
                       type="success"
                       rounded
                     >
-                      Javascript
+                      Vuex
                     </badge>
                     <badge
                       type="success"
@@ -141,7 +144,7 @@
                   </div>
                   <base-button
                     tag="a"
-                    href="https://getbootstrap.com/"
+                    href="https://vuejs.org/"
                     target="_blank"
                     type="success"
                     class="mt-4"
@@ -158,30 +161,36 @@
                   body-classes="py-5"
                 >
                   <h6 class="text-warning text-uppercase">
-                    Utilisation d'un CMS
+                    SGBD NoSQL
                   </h6>
                   <p class="description mt-3 text-justify">
-                    Afin de faciliter le développement et de limiter
-                    les coûts pour l'entreprise, nous travaillions sur
-                    une base d'un CMS WordPress.
+                    Le cahier des charges des applications développées
+                    justifiait l'utilisation d'une base de données NoSQL,
+                    à savoir MongoDB.
                   </p>
                   <div>
                     <badge
                       type="warning"
                       rounded
                     >
-                      CMS
+                      NoSQL
                     </badge>
                     <badge
                       type="warning"
                       rounded
                     >
-                      WordPress
+                      MongoDB
+                    </badge>
+                    <badge
+                      type="warning"
+                      rounded
+                    >
+                      mongoose
                     </badge>
                   </div>
                   <base-button
                     tag="a"
-                    href="https://fr.wordpress.org/"
+                    href="https://www.mongodb.com/"
                     target="_blank"
                     type="warning"
                     class="mt-4"
