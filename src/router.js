@@ -4,6 +4,7 @@ import AppHeader from './layout/AppHeader'
 import AppFooter from './layout/AppFooter'
 
 import Index from './views/index.vue'
+import Stage1 from './views/Stage1.vue'
 import VeilleTechnologique from './views/VeilleTechnologique'
 import VeilleJuridique from './views/VeilleJuridique'
 
@@ -18,6 +19,15 @@ export default new Router({
       components: {
         header: AppHeader,
         default: Index,
+        footer: AppFooter
+      }
+    },
+    {
+      path: '/stage1',
+      name: 'stage1',
+      components: {
+        header: AppHeader,
+        default: Stage1,
         footer: AppFooter
       }
     },

@@ -157,7 +157,7 @@
                   </div>
 
                   <h3>A propos du BTS SIO</h3>
-                  <p style="text-align: justify">
+                  <p class="text-justify">
                     Le BTS SIO (Services Informatiques aux Organisations), créé en 2011, est le nouveau BTS IG (Informatique de Gestion). Il forme à la mise en place de solutions informatiques au sein des entreprises et propose 2 options : SISR « Solutions d’Infrastructure, Systèmes et Réseaux » et SLAM « Solutions Logicielles et Applications Métiers ».
                   </p>
                   <ul class="list-unstyled mt-5">
