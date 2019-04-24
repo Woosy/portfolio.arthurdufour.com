@@ -6,6 +6,8 @@ import AppFooter from './layout/AppFooter'
 import Index from './views/index.vue'
 import Stage1 from './views/Stage1.vue'
 import Stage2 from './views/Stage2.vue'
+import PPE3 from './views/PPE3.vue'
+import PPE4 from './views/PPE4.vue'
 import VeilleTechnologique from './views/VeilleTechnologique'
 import VeilleJuridique from './views/VeilleJuridique'
 
@@ -46,7 +48,7 @@ export default new Router({
       name: 'ppe3',
       components: {
         header: AppHeader,
-        default: Index,
+        default: PPE3,
         footer: AppFooter
       }
     },
@@ -55,7 +57,7 @@ export default new Router({
       name: 'ppe4',
       components: {
         header: AppHeader,
-        default: Index,
+        default: PPE4,
         footer: AppFooter
       }
     },
