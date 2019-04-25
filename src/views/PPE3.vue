@@ -166,7 +166,10 @@
                 Vous trouverez ci-dessous un ensemble de documents liés à la présentation de ce projet au BTS SIO parcours SLAM.
               </p>
               <div class="text-center">
-                <div class="row justify-content-center" style="margin-top: 30px">
+                <div
+                  class="row justify-content-center"
+                  style="margin-top: 30px"
+                >
                   <div
                     v-b-tooltip.hover.bottom
                     title="Description de la situation professionnelle"

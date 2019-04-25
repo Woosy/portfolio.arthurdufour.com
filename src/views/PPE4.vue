@@ -58,7 +58,7 @@
                 Dossier médical
               </h5>
               <p class="text-white mt-3">
-                Constituez votre dossier médical, accessible par vos médecins, et centralisez ainsi l'intégralité des informations concernant votre santé. 
+                Constituez votre dossier médical, accessible par vos médecins, et centralisez ainsi l'intégralité des informations concernant votre santé.
               </p>
             </div>
           </div>
@@ -101,7 +101,7 @@
                 <div class="row align-items-center">
                   <div class="col-lg-8">
                     <h3 class="text-white">
-                     Un seul site web, toutes vos informations
+                      Un seul site web, toutes vos informations
                     </h3>
                     <p class="lead text-white mt-3">
                       ScanMeds a pour but de centraliser l'intégralité de vos informations médicales afin de vous faciliter la vie.
@@ -145,7 +145,10 @@
                 Vous trouverez ci-dessous un ensemble de documents liés à la présentation de ce projet au BTS SIO parcours SLAM.
               </p>
               <div class="text-center">
-                <div class="row justify-content-center" style="margin-top: 30px">
+                <div
+                  class="row justify-content-center"
+                  style="margin-top: 30px"
+                >
                   <div
                     v-b-tooltip.hover.bottom
                     title="Description de la situation professionnelle"
