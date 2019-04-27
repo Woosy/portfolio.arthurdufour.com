@@ -18,7 +18,12 @@
             <div class="row">
               <div class="col-lg-6">
                 <h1 class="display-3  text-white">
-                  Premier stage - TeePy
+                  Premier stage - <a
+                    href="https://teepy-entrepreneur.com"
+                    target="_blank"
+                    class="text-white"
+                    rel="noopener noreferrer"
+                  >TeePy</a>
                   <span>Développeur web stagiaire</span>
                 </h1>
                 <p class="lead text-white">

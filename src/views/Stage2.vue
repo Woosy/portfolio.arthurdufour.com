@@ -13,12 +13,17 @@
           <span />
           <span />
         </div>
-        <div class="container shape-container  d-flex">
+        <div class="container shape-container d-flex">
           <div class="col px-0">
             <div class="row">
               <div class="col-lg-6">
-                <h1 class="display-3  text-white">
-                  Second stage - Road-b-Score
+                <h1 class="display-3 text-white">
+                  Second stage - <a
+                    href="http://road-b-score.fr"
+                    target="_blank"
+                    class="text-white"
+                    rel="noopener noreferrer"
+                  >Road-b-Score</a>
                   <span>Développeur full-stack</span>
                 </h1>
                 <p class="lead text-white">
