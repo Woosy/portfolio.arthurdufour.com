@@ -217,30 +217,27 @@
             <i class="ni ni-collection d-lg-none" />
             <span class="nav-link-inner--text">Documents annexes</span>
           </a>
-          <router-link
-            to="/"
+          <a
+            href="/pdf/convocation-arthur-dufour.pdf"
+            target="_blank"
             class="dropdown-item"
           >
             Convocation
-          </router-link>
-          <router-link
-            to="/"
+          </a>
+          <a
+            href="/"
+            target="_blank"
             class="dropdown-item"
           >
-            Un autre fichier
-          </router-link>
-          <router-link
-            to="/"
+            Tableau des compétences
+          </a>
+          <a
+            href="/pdf/schema-reseau-epsi.pdf"
+            target="_blank"
             class="dropdown-item"
           >
-            Encore un fichier
-          </router-link>
-          <router-link
-            to="/"
-            class="dropdown-item"
-          >
-            Un autre fichier
-          </router-link>
+            Schéma du réseau de l'EPSI
+          </a>
         </base-dropdown>
 
         <!-- autres projets -->
