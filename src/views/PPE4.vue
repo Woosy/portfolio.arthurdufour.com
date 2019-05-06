@@ -155,7 +155,7 @@
                     class="col-lg-2 col-4"
                   >
                     <a
-                      href=""
+                      href="/pdf/description-pro-ppe4.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
