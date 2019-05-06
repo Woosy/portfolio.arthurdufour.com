@@ -14,12 +14,13 @@
     <section class="section section-skew">
       <div
         class="container"
-        style="margin-top: -400px"
+        style="margin-top: -350px"
       >
         <card
           shadow
-          class="card-profile mt--400"
+          class="card-profile mt--200"
           no-body
+          :hover="false"
         >
           <div class="px-4">
             <div class="row justify-content-center">
