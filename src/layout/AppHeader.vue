@@ -254,36 +254,34 @@
             <i class="ni ni-collection d-lg-none" />
             <span class="nav-link-inner--text">Autres projets</span>
           </a>
-          <router-link
-            to="/"
-            class="dropdown-item"
-          >
-            CalendarBot
-          </router-link>
-          <router-link
-            to="/"
-            class="dropdown-item"
-          >
-            API EDT
-          </router-link>
-          <router-link
-            to="/"
+          <a
+            href="https://github.com/Woosy/Tweether"
+            target="_blank"
             class="dropdown-item"
           >
             Tweether
-          </router-link>
-          <router-link
-            to="/"
+          </a>
+          <a
+            href="https://github.com/Woosy/git-deploy"
+            target="_blank"
             class="dropdown-item"
           >
             git-deploy
-          </router-link>
-          <router-link
-            to="/"
+          </a>
+          <a
+            href="https://github.com/Woosy/CalendarBot"
+            target="_blank"
+            class="dropdown-item"
+          >
+            CalendarBot
+          </a>
+          <a
+            href="https://github.com/Woosy/www.arthurdufour.com"
+            target="_blank"
             class="dropdown-item"
           >
             arthurdufour.com
-          </router-link>
+          </a>
         </base-dropdown>
       </ul>
     </base-nav>
