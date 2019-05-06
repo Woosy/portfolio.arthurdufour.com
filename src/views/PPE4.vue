@@ -71,7 +71,7 @@
             <div class="col-md-6 mb-5 mb-md-0">
               <div class="card card-lift--hover shadow border-0">
                 <img
-                  v-lazy="'img/theme/landing.jpg'"
+                  v-lazy="'img/ppe4-login.png'"
                   class="card-img"
                 >
               </div>
@@ -79,7 +79,7 @@
             <div class="col-md-6 mb-5 mb-lg-0">
               <div class="card card-lift--hover shadow border-0">
                 <img
-                  v-lazy="'img/theme/profile.jpg'"
+                  v-lazy="'img/ppe4-dashboard.png'"
                   class="card-img"
                 >
               </div>
