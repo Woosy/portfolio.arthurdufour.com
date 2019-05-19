@@ -61,6 +61,27 @@
                 Constituez votre dossier médical, accessible par vos médecins, et centralisez ainsi l'intégralité des informations concernant votre santé.
               </p>
             </div>
+            <div class="col-lg-4">
+              <icon
+                name="ni ni-check-bold"
+                size="lg"
+                gradient="white"
+                shadow
+                round
+                color="primary"
+              />
+              <h5 class="text-white mt-3">
+                Informations 100% sûres
+              </h5>
+              <p class="text-white mt-3">
+                Les données affichées par ScanMeds proviennent de la <a
+                  href="http://base-donnees-publique.medicaments.gouv.fr/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="text-white text-underline"
+                >base de données publique des médicaments</a>, créée par le gouvernement.
+              </p>
+            </div>
           </div>
         </div>
       </section>
@@ -151,16 +172,16 @@
                 >
                   <div
                     v-b-tooltip.hover.bottom
-                    title="Description de la situation professionnelle"
+                    title="Contexte GSB"
                     class="col-lg-2 col-4"
                   >
                     <a
-                      href="/pdf/description-pro-ppe4.pdf"
+                      href="/pdf/contexte-gsb.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <icon
-                        name="fa fa-sticky-note-o"
+                        name="fa fa-file-pdf-o"
                         size="lg"
                         gradient="white"
                         shadow
@@ -200,7 +221,27 @@
                       rel="noopener noreferrer"
                     >
                       <icon
-                        name="fa fa-github"
+                        name="fa fa-code"
+                        size="lg"
+                        gradient="white"
+                        shadow
+                        round
+                        color="primary"
+                      />
+                    </a>
+                  </div>
+                  <div
+                    v-b-tooltip.hover.bottom
+                    title="Description de la situation professionnelle"
+                    class="col-lg-2 col-4"
+                  >
+                    <a
+                      href="/pdf/description-pro-ppe4.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <icon
+                        name="fa fa-file-pdf-o"
                         size="lg"
                         gradient="white"
                         shadow

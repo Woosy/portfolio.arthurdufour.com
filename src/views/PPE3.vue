@@ -63,7 +63,7 @@
             </div>
             <div class="col-lg-4">
               <icon
-                name="ni ni-atom"
+                name="ni ni-check-bold"
                 size="lg"
                 gradient="white"
                 shadow
@@ -172,16 +172,16 @@
                 >
                   <div
                     v-b-tooltip.hover.bottom
-                    title="Description de la situation professionnelle"
+                    title="Contexte GSB"
                     class="col-lg-2 col-4"
                   >
                     <a
-                      href="/pdf/description-pro-ppe3.pdf"
+                      href="/pdf/contexte-gsb.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <icon
-                        name="fa fa-sticky-note-o"
+                        name="fa fa-file-pdf-o"
                         size="lg"
                         gradient="white"
                         shadow
@@ -221,7 +221,27 @@
                       rel="noopener noreferrer"
                     >
                       <icon
-                        name="fa fa-github"
+                        name="fa fa-code"
+                        size="lg"
+                        gradient="white"
+                        shadow
+                        round
+                        color="primary"
+                      />
+                    </a>
+                  </div>
+                  <div
+                    v-b-tooltip.hover.bottom
+                    title="Description de la situation professionnelle"
+                    class="col-lg-2 col-4"
+                  >
+                    <a
+                      href="/pdf/description-pro-ppe3.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <icon
+                        name="fa fa-file-pdf-o"
                         size="lg"
                         gradient="white"
                         shadow
