@@ -24,7 +24,7 @@
                     class="text-white"
                     rel="noopener noreferrer"
                   >TeePy</a>
-                  <span>Développeur web stagiaire</span>
+                  <span>Développeur web</span>
                 </h1>
                 <p class="lead text-white">
                   TeePy est un réseau professionnel et une plateforme de services pour les artisans, les commerçants, les auto-entrepreneurs, les professions libérales et les dirigeants de très petites entreprises.
